@@ -1,0 +1,112 @@
+{
+    "Access Control": [
+        {
+            "ID": "0eea59ca-c9fd-6060-b845-942429d4f57d",
+            "Identity": {
+                "Datasource Class": "OAuth 2.0",
+                "Datasource ID": "18e7dcb0-47d9-422f-b2ae-277dcf2d9503",
+                "Datasource Name": "Open ID Connect",
+                "Email": "kishe_matthew_g@lilly.com",
+                "First Name": "Matthew",
+                "ID": "659599A6-F04C-491E-990D-850219104EB1",
+                "Is Admin": false,
+                "Last Name": "Kishe",
+                "Name": "Matthew Kishe",
+                "Type": "User",
+                "Username": "ZBnlTHEqOu-Eh97mxhxm53sGEOR5QpNvLJ6Q9RSggko"
+            },
+            "Origin": "0EEA59C5-41F9-6060-ACC0-ABF763CC944D",
+            "Permissions": {
+                "Manage": true,
+                "Read": true,
+                "Write": true
+            },
+            "Redacted": false,
+            "Role": null
+        },
+        {
+            "ID": "0eea59ca-c9f5-fb30-87b4-15ea07e51d83",
+            "Identity": {
+                "Datasource Class": "OAuth 2.0",
+                "Datasource ID": "18e7dcb0-47d9-422f-b2ae-277dcf2d9503",
+                "Datasource Name": "Open ID Connect",
+                "Email": "kishe_matthew_g@lilly.com",
+                "First Name": "Matthew",
+                "ID": "659599A6-F04C-491E-990D-850219104EB1",
+                "Is Admin": false,
+                "Last Name": "Kishe",
+                "Name": "Matthew Kishe",
+                "Type": "User",
+                "Username": "ZBnlTHEqOu-Eh97mxhxm53sGEOR5QpNvLJ6Q9RSggko"
+            },
+            "Origin": null,
+            "Permissions": {
+                "Manage": true,
+                "Read": true,
+                "Write": true
+            },
+            "Redacted": false,
+            "Role": "OWNER"
+        }
+    ],
+    "Ancestors": [
+        "451C9DCC-6FA1-474F-9748-57882820AAFC",
+        "0EEA59C5-419C-6400-AC6D-0A210FCFA500",
+        "0EEA59C5-41F9-6060-ACC0-ABF763CC944D"
+    ],
+    "Archived": false,
+    "Cache Enabled": false,
+    "Created At": "1703780282468533919",
+    "Data ID": "[Released] D833DC83-9A38-48DE-BF45-EB787E9E8375",
+    "Datasource Class": "Seeq Data Lab",
+    "Datasource ID": "Seeq Data Lab",
+    "Enabled": true,
+    "ID": "0EEA59CA-C9F5-FB30-9798-28A6E00C225A",
+    "Name": "Example Analysis",
+    "Original Server URL": "http://seeq-server",
+    "Owner": {
+        "Datasource Class": "OAuth 2.0",
+        "Datasource ID": "18e7dcb0-47d9-422f-b2ae-277dcf2d9503",
+        "Datasource Name": "Open ID Connect",
+        "Email": "kishe_matthew_g@lilly.com",
+        "First Name": "Matthew",
+        "ID": "659599A6-F04C-491E-990D-850219104EB1",
+        "Is Admin": false,
+        "Last Name": "Kishe",
+        "Name": "Matthew Kishe",
+        "Type": "User",
+        "Username": "ZBnlTHEqOu-Eh97mxhxm53sGEOR5QpNvLJ6Q9RSggko"
+    },
+    "Path": "My Folder >> GMP >> My Example",
+    "Search Folder ID": "0EEA59C5-41F9-6060-ACC0-ABF763CC944D",
+    "Type": "Workbook",
+    "URL": "https://lilly.seeq.site/0EEA59C5-41F9-6060-ACC0-ABF763CC944D/workbook/0EEA59CA-C9F5-FB30-9798-28A6E00C225A/worksheet/0EEA59CA-D268-EC90-BE82-2EF0C3AAD147",
+    "Unsearchable": false,
+    "Updated At": "1703780284911383348",
+    "Workbook Type": "Analysis",
+    "Worksheets": [
+        "0EEA59CA-D268-EC90-BE82-2EF0C3AAD147",
+        "0EEA59CA-D4B5-62A0-94EA-96872F28BC9D",
+        "0EEA59CA-D63E-73B0-BA01-F9AEB4DC716E",
+        "0EEA59CA-D75B-EE00-8F14-ED93A5853EC2",
+        "0EEA59CA-D835-6290-9160-3BB0E8A4EF7E",
+        "0EEA59CA-DA27-7350-B1EF-4B3462B80A6C",
+        "0EEA59CA-DB00-77E0-A81E-E84CD0F4C86B"
+    ],
+    "workbookState": {
+        "state": {
+            "stores": {
+                "sqAnnotationStore": {
+                    "height": 0,
+                    "id": "CB083FF5-45BD-432D-B1B9-2D5CAFF2C657",
+                    "isAnnotatesExpanded": false,
+                    "isCommentsExpanded": false,
+                    "isEditing": true,
+                    "isExpanded": false,
+                    "width": 0
+                }
+            }
+        },
+        "version": 1
+    }
+}

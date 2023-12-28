@@ -1,0 +1,18 @@
+{
+    "Definition": {
+        "Archived": false,
+        "Cache Enabled": false,
+        "Created At": "1703780284140566922",
+        "Description": "Once swapped, each of the links in this journal should bring up content for Area B instead of Area A:",
+        "Document": "<p>This is a test of the <strong>Workbook Swap</strong> functionality.</p><p>Once swapped, each of the links in this journal should bring up content for Area B instead of Area A:</p><h1>Worksheet</h1><p><a href=\"/links?type&#61;workstep&amp;workbook&#61;0EEA59CA-C9F5-FB30-9798-28A6E00C225A&amp;worksheet&#61;0EEA59CA-D835-6290-9160-3BB0E8A4EF7E&amp;workstep&#61;0EEA59CA-D981-7310-BF74-28F62FA58249\" rel=\"nofollow noopener noreferrer\">Swap Analysis 1 - Journal (Nov 17, 2018 8:30 AM)</a></p><h1>Item Links</h1><p><a href=\"/links?type&#61;signal&amp;item&#61;11FBE5CB-C255-483F-B886-C42ADCD82A32\" rel=\"nofollow noopener noreferrer\">Temperature</a></p><p><a href=\"/links?type&#61;signal&amp;item&#61;283A0DF9-41B1-4286-B920-C89AFDC9D5C9\" rel=\"nofollow noopener noreferrer\">Compressor Stage</a></p><p><br></p>",
+        "DocumentBackup\u02c9ZBnlTHEqOu-Eh97mxhxm53sGEOR5QpNvLJ6Q9RSggko\u02c92023-12-28T16:18:00Z": "Placeholder document",
+        "Enabled": true,
+        "ID": "0EEA59CA-D9EA-62C0-A606-354AF8A8AD05",
+        "Is CK Enabled": true,
+        "Name": "This is a test of the Workbook Swap functionality.",
+        "Plain Text Document": "This is a test of the Workbook Swap functionality.Once swapped, each of the links in this journal should bring up content for Area B instead of Area A:WorksheetSwap Analysis 1 - Journal (Nov 17, 2018 8:30 AM)Item LinksTemperatureCompressor Stage",
+        "Type": "Journal",
+        "Unsearchable": false,
+        "Updated At": "1703780284895378624"
+    }
+}

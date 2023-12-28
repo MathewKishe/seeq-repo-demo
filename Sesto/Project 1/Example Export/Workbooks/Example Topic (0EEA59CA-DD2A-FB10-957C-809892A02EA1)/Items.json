@@ -1,0 +1,281 @@
+{
+    "0EEA59C5-419C-6400-AC6D-0A210FCFA500": {
+        "Access Control": [
+            {
+                "ID": "0eea59c5-419c-6400-96db-0c62fd817b2c",
+                "Identity": {
+                    "Datasource Class": "OAuth 2.0",
+                    "Datasource ID": "18e7dcb0-47d9-422f-b2ae-277dcf2d9503",
+                    "Datasource Name": "Open ID Connect",
+                    "Email": "kishe_matthew_g@lilly.com",
+                    "First Name": "Matthew",
+                    "ID": "659599A6-F04C-491E-990D-850219104EB1",
+                    "Is Admin": false,
+                    "Last Name": "Kishe",
+                    "Name": "Matthew Kishe",
+                    "Type": "User",
+                    "Username": "ZBnlTHEqOu-Eh97mxhxm53sGEOR5QpNvLJ6Q9RSggko"
+                },
+                "Origin": null,
+                "Permissions": {
+                    "Manage": true,
+                    "Read": true,
+                    "Write": true
+                },
+                "Redacted": false,
+                "Role": "OWNER"
+            },
+            {
+                "ID": "0eea59c5-41a1-6220-ac19-80feb74f83f4",
+                "Identity": {
+                    "Datasource Class": "OAuth 2.0",
+                    "Datasource ID": "18e7dcb0-47d9-422f-b2ae-277dcf2d9503",
+                    "Datasource Name": "Open ID Connect",
+                    "Email": "kishe_matthew_g@lilly.com",
+                    "First Name": "Matthew",
+                    "ID": "659599A6-F04C-491E-990D-850219104EB1",
+                    "Is Admin": false,
+                    "Last Name": "Kishe",
+                    "Name": "Matthew Kishe",
+                    "Type": "User",
+                    "Username": "ZBnlTHEqOu-Eh97mxhxm53sGEOR5QpNvLJ6Q9RSggko"
+                },
+                "Origin": "451C9DCC-6FA1-474F-9748-57882820AAFC",
+                "Permissions": {
+                    "Manage": true,
+                    "Read": true,
+                    "Write": true
+                },
+                "Redacted": false,
+                "Role": null
+            }
+        ],
+        "Ancestors": [],
+        "Archived": false,
+        "Cache Enabled": false,
+        "Created At": "1703780133952164832",
+        "Description": "Created by Seeq Data Lab",
+        "Enabled": true,
+        "ID": "0EEA59C5-419C-6400-AC6D-0A210FCFA500",
+        "Name": "GMP",
+        "Owner": {
+            "Datasource Class": "OAuth 2.0",
+            "Datasource ID": "18e7dcb0-47d9-422f-b2ae-277dcf2d9503",
+            "Datasource Name": "Open ID Connect",
+            "Email": "kishe_matthew_g@lilly.com",
+            "First Name": "Matthew",
+            "ID": "659599A6-F04C-491E-990D-850219104EB1",
+            "Is Admin": false,
+            "Last Name": "Kishe",
+            "Name": "Matthew Kishe",
+            "Type": "User",
+            "Username": "ZBnlTHEqOu-Eh97mxhxm53sGEOR5QpNvLJ6Q9RSggko"
+        },
+        "Type": "Folder",
+        "Unsearchable": false,
+        "Updated At": "1703780133952164832"
+    },
+    "0EEA59C5-41F9-6060-ACC0-ABF763CC944D": {
+        "Access Control": [
+            {
+                "ID": "0eea59c5-41fd-ee80-87f5-ab5ea5ecbde2",
+                "Identity": {
+                    "Datasource Class": "OAuth 2.0",
+                    "Datasource ID": "18e7dcb0-47d9-422f-b2ae-277dcf2d9503",
+                    "Datasource Name": "Open ID Connect",
+                    "Email": "kishe_matthew_g@lilly.com",
+                    "First Name": "Matthew",
+                    "ID": "659599A6-F04C-491E-990D-850219104EB1",
+                    "Is Admin": false,
+                    "Last Name": "Kishe",
+                    "Name": "Matthew Kishe",
+                    "Type": "User",
+                    "Username": "ZBnlTHEqOu-Eh97mxhxm53sGEOR5QpNvLJ6Q9RSggko"
+                },
+                "Origin": "0EEA59C5-419C-6400-AC6D-0A210FCFA500",
+                "Permissions": {
+                    "Manage": true,
+                    "Read": true,
+                    "Write": true
+                },
+                "Redacted": false,
+                "Role": null
+            },
+            {
+                "ID": "0eea59c5-41f9-6060-b767-ef4cc29535dd",
+                "Identity": {
+                    "Datasource Class": "OAuth 2.0",
+                    "Datasource ID": "18e7dcb0-47d9-422f-b2ae-277dcf2d9503",
+                    "Datasource Name": "Open ID Connect",
+                    "Email": "kishe_matthew_g@lilly.com",
+                    "First Name": "Matthew",
+                    "ID": "659599A6-F04C-491E-990D-850219104EB1",
+                    "Is Admin": false,
+                    "Last Name": "Kishe",
+                    "Name": "Matthew Kishe",
+                    "Type": "User",
+                    "Username": "ZBnlTHEqOu-Eh97mxhxm53sGEOR5QpNvLJ6Q9RSggko"
+                },
+                "Origin": null,
+                "Permissions": {
+                    "Manage": true,
+                    "Read": true,
+                    "Write": true
+                },
+                "Redacted": false,
+                "Role": "OWNER"
+            }
+        ],
+        "Ancestors": [
+            "0EEA59C5-419C-6400-AC6D-0A210FCFA500"
+        ],
+        "Archived": false,
+        "Cache Enabled": false,
+        "Created At": "1703780133990422116",
+        "Description": "Created by Seeq Data Lab",
+        "Enabled": true,
+        "ID": "0EEA59C5-41F9-6060-ACC0-ABF763CC944D",
+        "Name": "My Example",
+        "Owner": {
+            "Datasource Class": "OAuth 2.0",
+            "Datasource ID": "18e7dcb0-47d9-422f-b2ae-277dcf2d9503",
+            "Datasource Name": "Open ID Connect",
+            "Email": "kishe_matthew_g@lilly.com",
+            "First Name": "Matthew",
+            "ID": "659599A6-F04C-491E-990D-850219104EB1",
+            "Is Admin": false,
+            "Last Name": "Kishe",
+            "Name": "Matthew Kishe",
+            "Type": "User",
+            "Username": "ZBnlTHEqOu-Eh97mxhxm53sGEOR5QpNvLJ6Q9RSggko"
+        },
+        "Type": "Folder",
+        "Unsearchable": false,
+        "Updated At": "1703780136114832443"
+    },
+    "0EEA59CA-DD62-FD80-9738-4E63FEEEF817": {
+        "Archived": false,
+        "Cache Enabled": true,
+        "Cache ID": "0eea59ca-dd62-fd80-9a14-8e7630e3e314",
+        "Data ID": "[Released] 13830E96-9EAF-4F98-A303-6F05E23E95B3",
+        "Datasource Class": "Seeq Data Lab",
+        "Datasource ID": "Seeq Data Lab",
+        "Enabled": true,
+        "Formula": "days()",
+        "Formula Parameters": {},
+        "ID": "0EEA59CA-DD62-FD80-9738-4E63FEEEF817",
+        "Key Unit Of Measure": "ns",
+        "Maximum Duration": "1.0416666666666667",
+        "Maximum Interpolation": "90000.0",
+        "Metadata Properties": "Day+of+Month=&Day+of+Year=&Day+of+Week=",
+        "Name": "Daily",
+        "Scoped To": "0EEA59CA-DD2A-FB10-957C-809892A02EA1",
+        "Type": "CalculatedCondition",
+        "UIConfig": {
+            "advancedParametersCollapsed": false,
+            "duration": "days",
+            "frequencies": [],
+            "offset": {},
+            "quarterStart": {
+                "day": 1,
+                "month": "Month.January"
+            },
+            "shift": {
+                "duration": 8,
+                "offset": 8
+            },
+            "type": "periodic-condition",
+            "weekStart": "Day.Sunday"
+        },
+        "Unsearchable": false
+    },
+    "0EEA59CA-DD9A-FFF0-A94E-C59662C9536C": {
+        "Archived": false,
+        "Cache Enabled": true,
+        "Cache ID": "0eea59ca-dd9a-fff0-8132-6a8aa5d8d614",
+        "Data ID": "[Released] C505586B-9AFE-430E-94E0-B03145AF8EFC",
+        "Datasource Class": "Seeq Data Lab",
+        "Datasource ID": "Seeq Data Lab",
+        "Enabled": true,
+        "Formula": "days()",
+        "Formula Parameters": {},
+        "ID": "0EEA59CA-DD9A-FFF0-A94E-C59662C9536C",
+        "Key Unit Of Measure": "ns",
+        "Maximum Duration": "1.0416666666666667",
+        "Maximum Interpolation": "90000.0",
+        "Metadata Properties": "Day+of+Month=&Day+of+Year=&Day+of+Week=",
+        "Name": "Daily 2",
+        "Scoped To": "0EEA59CA-DD2A-FB10-957C-809892A02EA1",
+        "Type": "CalculatedCondition",
+        "UIConfig": {
+            "advancedParametersCollapsed": true,
+            "duration": "days",
+            "frequencies": [],
+            "offset": {},
+            "quarterStart": {
+                "day": 1,
+                "month": "Month.January"
+            },
+            "shift": {
+                "duration": 8,
+                "offset": 8
+            },
+            "type": "periodic-condition",
+            "weekStart": "Day.Sunday"
+        },
+        "Unsearchable": false
+    },
+    "451C9DCC-6FA1-474F-9748-57882820AAFC": {
+        "Access Control": [
+            {
+                "ID": "111c8278-765f-47db-a35a-e8be559d39c9",
+                "Identity": {
+                    "Datasource Class": "OAuth 2.0",
+                    "Datasource ID": "18e7dcb0-47d9-422f-b2ae-277dcf2d9503",
+                    "Datasource Name": "Open ID Connect",
+                    "Email": "kishe_matthew_g@lilly.com",
+                    "First Name": "Matthew",
+                    "ID": "659599A6-F04C-491E-990D-850219104EB1",
+                    "Is Admin": false,
+                    "Last Name": "Kishe",
+                    "Name": "Matthew Kishe",
+                    "Type": "User",
+                    "Username": "ZBnlTHEqOu-Eh97mxhxm53sGEOR5QpNvLJ6Q9RSggko"
+                },
+                "Origin": null,
+                "Permissions": {
+                    "Manage": true,
+                    "Read": true,
+                    "Write": true
+                },
+                "Redacted": false,
+                "Role": "OWNER"
+            }
+        ],
+        "Ancestors": [],
+        "Archived": false,
+        "Cache Enabled": false,
+        "Created At": "1622123248220001000",
+        "Enabled": true,
+        "ID": "451C9DCC-6FA1-474F-9748-57882820AAFC",
+        "Name": "Matthew Kishe",
+        "Owner": {
+            "Datasource Class": "OAuth 2.0",
+            "Datasource ID": "18e7dcb0-47d9-422f-b2ae-277dcf2d9503",
+            "Datasource Name": "Open ID Connect",
+            "Email": "kishe_matthew_g@lilly.com",
+            "First Name": "Matthew",
+            "ID": "659599A6-F04C-491E-990D-850219104EB1",
+            "Is Admin": false,
+            "Last Name": "Kishe",
+            "Name": "Matthew Kishe",
+            "Type": "User",
+            "Username": "ZBnlTHEqOu-Eh97mxhxm53sGEOR5QpNvLJ6Q9RSggko"
+        },
+        "Permission Inheritance Disabled": true,
+        "Type": "Folder",
+        "Unmodifiable": true,
+        "Unsearchable": true,
+        "Updated At": "1622123248220001000"
+    }
+}

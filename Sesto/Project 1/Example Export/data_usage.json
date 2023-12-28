@@ -1,0 +1,276 @@
+{
+  "BB5D2A62-3926-4867-B343-0D814B215AE9": {
+    "Definition": {
+      "Archived": false,
+      "Cache Enabled": false,
+      "Cache ID": "c6db7efb-a433-4871-a775-a03c9a40e724",
+      "Data ID": "[Tag] Area A_Optimizer.sim.ts.csv",
+      "Datasource Class": "Time Series CSV Files",
+      "Datasource ID": "Example Data",
+      "Enabled": true,
+      "ID": "BB5D2A62-3926-4867-B343-0D814B215AE9",
+      "Interpolation Method": "Linear",
+      "Key Unit Of Measure": "ns",
+      "Maximum Interpolation": "2min",
+      "Source Maximum Interpolation": "2min",
+      "Source Value Unit Of Measure": "",
+      "Sync Token": "2023-07-28T15:19:46.192363878Z",
+      "Unsearchable": false,
+      "Value Unit Of Measure": "",
+      "Name": "Area A_Optimizer",
+      "Type": "StoredSignal"
+    },
+    "Periods": [
+      {
+        "Start": "2018-11-11T04:22:45.084000+00:00",
+        "End": "2018-11-12T04:22:45.084000+00:00"
+      },
+      {
+        "Start": "2023-12-28T15:19:43.742372+00:00",
+        "End": "2023-12-28T16:19:43.742372+00:00"
+      }
+    ]
+  },
+  "11FBE5CB-C255-483F-B886-C42ADCD82A32": {
+    "Definition": {
+      "Archived": false,
+      "Cache Enabled": false,
+      "Cache ID": "9373d4b2-2381-4629-8581-824f494eb8a4",
+      "Data ID": "[Tag] Area A_Temperature.sim.ts.csv",
+      "Datasource Class": "Time Series CSV Files",
+      "Datasource ID": "Example Data",
+      "Enabled": true,
+      "ID": "11FBE5CB-C255-483F-B886-C42ADCD82A32",
+      "Interpolation Method": "Linear",
+      "Key Unit Of Measure": "ns",
+      "Maximum Interpolation": "2min",
+      "Source Maximum Interpolation": "2min",
+      "Source Value Unit Of Measure": "\u00b0F",
+      "Sync Token": "2023-07-28T15:19:46.192363878Z",
+      "Unsearchable": false,
+      "Value Unit Of Measure": "\u00b0F",
+      "Name": "Area A_Temperature",
+      "Type": "StoredSignal"
+    },
+    "Periods": [
+      {
+        "Start": "2018-11-01T12:36:56.759000+00:00",
+        "End": "2018-11-08T12:36:56.759000+00:00"
+      },
+      {
+        "Start": "2018-11-10T16:31:09.311000+00:00",
+        "End": "2018-11-12T04:22:45.084000+00:00"
+      },
+      {
+        "Start": "2018-11-14T21:08:41.352000+00:00",
+        "End": "2018-11-21T21:08:41.352000+00:00"
+      },
+      {
+        "Start": "2023-12-25T16:19:43.742372+00:00",
+        "End": "2023-12-28T16:19:43.742372+00:00"
+      },
+      {
+        "Start": "2023-12-28T17:19:43.742372+00:00",
+        "End": "2023-12-28T18:19:43.742372+00:00"
+      }
+    ]
+  },
+  "3ED34D08-26AD-4418-BB8D-827B36453DBA": {
+    "Definition": {
+      "Archived": false,
+      "Cache Enabled": false,
+      "Cache ID": "cff5a07a-f91f-4579-b645-36165a2b817c",
+      "Data ID": "[Tag] Area A_Compressor Power.sim.ts.csv",
+      "Datasource Class": "Time Series CSV Files",
+      "Datasource ID": "Example Data",
+      "Enabled": true,
+      "ID": "3ED34D08-26AD-4418-BB8D-827B36453DBA",
+      "Interpolation Method": "Linear",
+      "Key Unit Of Measure": "ns",
+      "Maximum Interpolation": "2min",
+      "Source Maximum Interpolation": "2min",
+      "Source Value Unit Of Measure": "kW",
+      "Sync Token": "2023-07-28T15:19:46.192363878Z",
+      "Unsearchable": false,
+      "Value Unit Of Measure": "kW",
+      "Name": "Area A_Compressor Power",
+      "Type": "StoredSignal"
+    },
+    "Periods": [
+      {
+        "Start": "2018-11-10T16:31:09.311000+00:00",
+        "End": "2018-11-12T04:22:45.084000+00:00"
+      },
+      {
+        "Start": "2023-12-25T16:19:43.742372+00:00",
+        "End": "2023-12-28T16:19:43.742372+00:00"
+      }
+    ]
+  },
+  "F9FCB136-F040-4D61-8895-12A38284E992": {
+    "Definition": {
+      "Archived": false,
+      "Cache Enabled": false,
+      "Cache ID": "fed5c824-189a-4840-9aa9-d05ca66ddb80",
+      "Data ID": "[Tag] Area A_Relative Humidity.sim.ts.csv",
+      "Datasource Class": "Time Series CSV Files",
+      "Datasource ID": "Example Data",
+      "Enabled": true,
+      "ID": "F9FCB136-F040-4D61-8895-12A38284E992",
+      "Interpolation Method": "Linear",
+      "Key Unit Of Measure": "ns",
+      "Maximum Interpolation": "2min",
+      "Source Maximum Interpolation": "2min",
+      "Source Value Unit Of Measure": "%",
+      "Sync Token": "2023-07-28T15:19:46.192363878Z",
+      "Unsearchable": false,
+      "Value Unit Of Measure": "%",
+      "Name": "Area A_Relative Humidity",
+      "Type": "StoredSignal"
+    },
+    "Periods": [
+      {
+        "Start": "2018-11-01T12:36:56.759000+00:00",
+        "End": "2018-11-08T12:36:56.759000+00:00"
+      },
+      {
+        "Start": "2018-11-11T04:22:45.084000+00:00",
+        "End": "2018-11-12T04:22:45.084000+00:00"
+      }
+    ]
+  },
+  "283A0DF9-41B1-4286-B920-C89AFDC9D5C9": {
+    "Definition": {
+      "Archived": false,
+      "Cache Enabled": false,
+      "Cache ID": "02783c8d-d4d9-4066-bbc8-906a1ac29fcf",
+      "Data ID": "[Tag] Area A_Compressor Stage.sim.ts.csv",
+      "Datasource Class": "Time Series CSV Files",
+      "Datasource ID": "Example Data",
+      "Enabled": true,
+      "ID": "283A0DF9-41B1-4286-B920-C89AFDC9D5C9",
+      "Interpolation Method": "Step",
+      "Key Unit Of Measure": "ns",
+      "Maximum Interpolation": "2min",
+      "Source Maximum Interpolation": "2min",
+      "Source Value Unit Of Measure": "string",
+      "Sync Token": "2023-07-28T15:19:46.192363878Z",
+      "Unsearchable": false,
+      "Value Unit Of Measure": "string",
+      "Name": "Area A_Compressor Stage",
+      "Type": "StoredSignal"
+    },
+    "Periods": [
+      {
+        "Start": "2018-11-01T12:36:56.759000+00:00",
+        "End": "2018-11-08T12:36:56.759000+00:00"
+      },
+      {
+        "Start": "2018-11-11T04:22:45.084000+00:00",
+        "End": "2018-11-12T04:22:45.084000+00:00"
+      },
+      {
+        "Start": "2018-11-16T16:28:56.645000+00:00",
+        "End": "2018-11-17T16:28:56.645000+00:00"
+      },
+      {
+        "Start": "2023-12-28T15:19:43.742372+00:00",
+        "End": "2023-12-28T16:19:43.742372+00:00"
+      }
+    ]
+  },
+  "7447E61C-0334-48C9-B89A-BA2986E70F3F": {
+    "Definition": {
+      "Archived": false,
+      "Cache Enabled": false,
+      "Cache ID": "964def12-2363-4bcf-8e67-9bc93c6f6ee9",
+      "Data ID": "[Tag] Area A_Wet Bulb.sim.ts.csv",
+      "Datasource Class": "Time Series CSV Files",
+      "Datasource ID": "Example Data",
+      "Enabled": true,
+      "ID": "7447E61C-0334-48C9-B89A-BA2986E70F3F",
+      "Interpolation Method": "Linear",
+      "Key Unit Of Measure": "ns",
+      "Maximum Interpolation": "2min",
+      "Source Maximum Interpolation": "2min",
+      "Source Value Unit Of Measure": "\u00b0F",
+      "Sync Token": "2023-07-28T15:19:46.192363878Z",
+      "Unsearchable": false,
+      "Value Unit Of Measure": "\u00b0F",
+      "Name": "Area A_Wet Bulb",
+      "Type": "StoredSignal"
+    },
+    "Periods": [
+      {
+        "Start": "2018-11-11T04:22:45.084000+00:00",
+        "End": "2018-11-12T04:22:45.084000+00:00"
+      },
+      {
+        "Start": "2018-12-16T06:18:49.287000+00:00",
+        "End": "2018-12-17T06:18:49.287000+00:00"
+      }
+    ]
+  },
+  "1CE21D25-1071-4ECE-A068-8A5F06A7C130": {
+    "Definition": {
+      "Archived": false,
+      "Cache Enabled": false,
+      "Cache ID": "543f5f87-2eb2-4b35-ac41-3a98e30a3ed8",
+      "Data ID": "[Tag] Area C_Temperature.sim.ts.csv",
+      "Datasource Class": "Time Series CSV Files",
+      "Datasource ID": "Example Data",
+      "Enabled": true,
+      "ID": "1CE21D25-1071-4ECE-A068-8A5F06A7C130",
+      "Interpolation Method": "Linear",
+      "Key Unit Of Measure": "ns",
+      "Maximum Interpolation": "2min",
+      "Source Maximum Interpolation": "2min",
+      "Source Value Unit Of Measure": "F",
+      "Sync Token": "2023-07-28T15:19:46.192363878Z",
+      "Unsearchable": false,
+      "Value Unit Of Measure": "\u00b0F",
+      "Name": "Area C_Temperature",
+      "Type": "StoredSignal"
+    },
+    "Periods": [
+      {
+        "Start": "2018-11-10T16:31:09.311000+00:00",
+        "End": "2018-11-11T16:31:09.311000+00:00"
+      },
+      {
+        "Start": "2023-12-25T16:19:43.742372+00:00",
+        "End": "2023-12-28T16:19:43.742372+00:00"
+      }
+    ]
+  },
+  "C52944DF-4FD5-4AEC-9447-B0C988AF23A7": {
+    "Definition": {
+      "Archived": false,
+      "Cache Enabled": false,
+      "Cache ID": "2901c8d3-75b4-4f50-bd35-e84ef15b7a91",
+      "Data ID": "Area A_Temperature.sim.ts.csv",
+      "Datasource Class": "Time Series CSV Files",
+      "Datasource ID": "Example Data",
+      "Enabled": true,
+      "ID": "C52944DF-4FD5-4AEC-9447-B0C988AF23A7",
+      "Interpolation Method": "Linear",
+      "Key Unit Of Measure": "ns",
+      "Maximum Interpolation": "2min",
+      "Source Maximum Interpolation": "2min",
+      "Source Value Unit Of Measure": "\u00b0F",
+      "Sync Token": "2023-07-28T15:19:46.192363878Z",
+      "Unsearchable": false,
+      "Value Unit Of Measure": "\u00b0F",
+      "Name": "Temperature",
+      "Type": "StoredSignal",
+      "Path": "Example >> Cooling Tower 1",
+      "Asset": "Area A"
+    },
+    "Periods": [
+      {
+        "Start": "2019-09-07T13:23:27.130000+00:00",
+        "End": "2019-10-07T23:23:27.130000+00:00"
+      }
+    ]
+  }
+}

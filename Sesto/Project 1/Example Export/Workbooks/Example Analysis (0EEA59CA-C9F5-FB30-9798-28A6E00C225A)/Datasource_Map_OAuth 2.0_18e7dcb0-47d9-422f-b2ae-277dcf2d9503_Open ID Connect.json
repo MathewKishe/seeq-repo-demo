@@ -1,0 +1,36 @@
+{
+    "Datasource Class": "OAuth 2.0",
+    "Datasource ID": "18e7dcb0-47d9-422f-b2ae-277dcf2d9503",
+    "Datasource Name": "Open ID Connect",
+    "Item-Level Map Files": [],
+    "RegEx-Based Maps": [
+        {
+            "Old": {
+                "Type": "User",
+                "Datasource Class": "OAuth 2\\.0",
+                "Datasource Name": "Open ID Connect",
+                "Username": "(?<username>.*)"
+            },
+            "New": {
+                "Type": "User",
+                "Datasource Class": "OAuth 2.0",
+                "Datasource Name": "Open ID Connect",
+                "Username": "${username}"
+            }
+        },
+        {
+            "Old": {
+                "Type": "UserGroup",
+                "Datasource Class": "OAuth 2\\.0",
+                "Datasource Name": "Open ID Connect",
+                "Name": "(?<name>.*)"
+            },
+            "New": {
+                "Type": "UserGroup",
+                "Datasource Class": "OAuth 2.0",
+                "Datasource Name": "Open ID Connect",
+                "Name": "${name}"
+            }
+        }
+    ]
+}

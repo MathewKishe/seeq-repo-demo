@@ -1,0 +1,107 @@
+{
+    "Access Control": [
+        {
+            "ID": "0eea59ca-dd32-6040-ac56-cc4dfbc2e35e",
+            "Identity": {
+                "Datasource Class": "OAuth 2.0",
+                "Datasource ID": "18e7dcb0-47d9-422f-b2ae-277dcf2d9503",
+                "Datasource Name": "Open ID Connect",
+                "Email": "kishe_matthew_g@lilly.com",
+                "First Name": "Matthew",
+                "ID": "659599A6-F04C-491E-990D-850219104EB1",
+                "Is Admin": false,
+                "Last Name": "Kishe",
+                "Name": "Matthew Kishe",
+                "Type": "User",
+                "Username": "ZBnlTHEqOu-Eh97mxhxm53sGEOR5QpNvLJ6Q9RSggko"
+            },
+            "Origin": "0EEA59C5-41F9-6060-ACC0-ABF763CC944D",
+            "Permissions": {
+                "Manage": true,
+                "Read": true,
+                "Write": true
+            },
+            "Redacted": false,
+            "Role": null
+        },
+        {
+            "ID": "0eea59ca-dd2a-fb10-9577-24dba555e929",
+            "Identity": {
+                "Datasource Class": "OAuth 2.0",
+                "Datasource ID": "18e7dcb0-47d9-422f-b2ae-277dcf2d9503",
+                "Datasource Name": "Open ID Connect",
+                "Email": "kishe_matthew_g@lilly.com",
+                "First Name": "Matthew",
+                "ID": "659599A6-F04C-491E-990D-850219104EB1",
+                "Is Admin": false,
+                "Last Name": "Kishe",
+                "Name": "Matthew Kishe",
+                "Type": "User",
+                "Username": "ZBnlTHEqOu-Eh97mxhxm53sGEOR5QpNvLJ6Q9RSggko"
+            },
+            "Origin": null,
+            "Permissions": {
+                "Manage": true,
+                "Read": true,
+                "Write": true
+            },
+            "Redacted": false,
+            "Role": "OWNER"
+        }
+    ],
+    "Ancestors": [
+        "451C9DCC-6FA1-474F-9748-57882820AAFC",
+        "0EEA59C5-419C-6400-AC6D-0A210FCFA500",
+        "0EEA59C5-41F9-6060-ACC0-ABF763CC944D"
+    ],
+    "Archived": false,
+    "Cache Enabled": false,
+    "Created At": "1703780284482017600",
+    "Data ID": "[Released] 811B1488-297A-4FD2-AE7C-A1FE0E3B3641",
+    "Datasource Class": "Seeq Data Lab",
+    "Datasource ID": "Seeq Data Lab",
+    "Enabled": true,
+    "ID": "0EEA59CA-DD2A-FB10-957C-809892A02EA1",
+    "Name": "Example Topic",
+    "Original Server URL": "http://seeq-server",
+    "Owner": {
+        "Datasource Class": "OAuth 2.0",
+        "Datasource ID": "18e7dcb0-47d9-422f-b2ae-277dcf2d9503",
+        "Datasource Name": "Open ID Connect",
+        "Email": "kishe_matthew_g@lilly.com",
+        "First Name": "Matthew",
+        "ID": "659599A6-F04C-491E-990D-850219104EB1",
+        "Is Admin": false,
+        "Last Name": "Kishe",
+        "Name": "Matthew Kishe",
+        "Type": "User",
+        "Username": "ZBnlTHEqOu-Eh97mxhxm53sGEOR5QpNvLJ6Q9RSggko"
+    },
+    "Path": "My Folder >> GMP >> My Example",
+    "Search Folder ID": "0EEA59C5-41F9-6060-ACC0-ABF763CC944D",
+    "Type": "Workbook",
+    "URL": "https://lilly.seeq.site/0EEA59C5-41F9-6060-ACC0-ABF763CC944D/workbook/0EEA59CA-DD2A-FB10-957C-809892A02EA1/worksheet/0EEA59CA-DDDA-7790-899F-56D0992B8FAD",
+    "Unsearchable": false,
+    "Updated At": "1703780284934219621",
+    "Workbook Type": "Topic",
+    "Worksheets": [
+        "0EEA59CA-DDDA-7790-899F-56D0992B8FAD",
+        "0EEA59CA-DEFF-7710-ADD5-B877D181554E"
+    ],
+    "workbookState": {
+        "state": {
+            "stores": {
+                "sqAnnotationStore": {
+                    "height": 0,
+                    "id": "id-placeholder",
+                    "isAnnotatesExpanded": false,
+                    "isCommentsExpanded": false,
+                    "isEditing": true,
+                    "isExpanded": false,
+                    "width": 0
+                }
+            }
+        },
+        "version": 1
+    }
+}

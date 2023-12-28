@@ -1,0 +1,26 @@
+{
+    "99657275-C791-4512-A96F-D1D066B2B287": {
+        "Archived": true,
+        "Datasource Class": "Seeq Data Lab",
+        "Datasource ID": "Seeq Data Lab",
+        "ID": "99657275-C791-4512-A96F-D1D066B2B287",
+        "Name": "Seeq Data Lab",
+        "Type": "Datasource"
+    },
+    "B6C55400-A85D-43EC-A8E3-C8223DABE62E": {
+        "Archived": false,
+        "Datasource Class": "OAuth 2.0",
+        "Datasource ID": "18e7dcb0-47d9-422f-b2ae-277dcf2d9503",
+        "ID": "B6C55400-A85D-43EC-A8E3-C8223DABE62E",
+        "Name": "Open ID Connect",
+        "Type": "Datasource"
+    },
+    "F645222D-0D59-4781-9E2B-C2C035675671": {
+        "Archived": false,
+        "Datasource Class": "Time Series CSV Files",
+        "Datasource ID": "Example Data",
+        "ID": "F645222D-0D59-4781-9E2B-C2C035675671",
+        "Name": "Example Data",
+        "Type": "Datasource"
+    }
+}

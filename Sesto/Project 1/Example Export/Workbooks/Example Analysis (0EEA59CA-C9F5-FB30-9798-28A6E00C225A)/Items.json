@@ -1,0 +1,1080 @@
+{
+    "0EEA59C5-419C-6400-AC6D-0A210FCFA500": {
+        "Access Control": [
+            {
+                "ID": "0eea59c5-419c-6400-96db-0c62fd817b2c",
+                "Identity": {
+                    "Datasource Class": "OAuth 2.0",
+                    "Datasource ID": "18e7dcb0-47d9-422f-b2ae-277dcf2d9503",
+                    "Datasource Name": "Open ID Connect",
+                    "Email": "kishe_matthew_g@lilly.com",
+                    "First Name": "Matthew",
+                    "ID": "659599A6-F04C-491E-990D-850219104EB1",
+                    "Is Admin": false,
+                    "Last Name": "Kishe",
+                    "Name": "Matthew Kishe",
+                    "Type": "User",
+                    "Username": "ZBnlTHEqOu-Eh97mxhxm53sGEOR5QpNvLJ6Q9RSggko"
+                },
+                "Origin": null,
+                "Permissions": {
+                    "Manage": true,
+                    "Read": true,
+                    "Write": true
+                },
+                "Redacted": false,
+                "Role": "OWNER"
+            },
+            {
+                "ID": "0eea59c5-41a1-6220-ac19-80feb74f83f4",
+                "Identity": {
+                    "Datasource Class": "OAuth 2.0",
+                    "Datasource ID": "18e7dcb0-47d9-422f-b2ae-277dcf2d9503",
+                    "Datasource Name": "Open ID Connect",
+                    "Email": "kishe_matthew_g@lilly.com",
+                    "First Name": "Matthew",
+                    "ID": "659599A6-F04C-491E-990D-850219104EB1",
+                    "Is Admin": false,
+                    "Last Name": "Kishe",
+                    "Name": "Matthew Kishe",
+                    "Type": "User",
+                    "Username": "ZBnlTHEqOu-Eh97mxhxm53sGEOR5QpNvLJ6Q9RSggko"
+                },
+                "Origin": "451C9DCC-6FA1-474F-9748-57882820AAFC",
+                "Permissions": {
+                    "Manage": true,
+                    "Read": true,
+                    "Write": true
+                },
+                "Redacted": false,
+                "Role": null
+            }
+        ],
+        "Ancestors": [],
+        "Archived": false,
+        "Cache Enabled": false,
+        "Created At": "1703780133952164832",
+        "Description": "Created by Seeq Data Lab",
+        "Enabled": true,
+        "ID": "0EEA59C5-419C-6400-AC6D-0A210FCFA500",
+        "Name": "GMP",
+        "Owner": {
+            "Datasource Class": "OAuth 2.0",
+            "Datasource ID": "18e7dcb0-47d9-422f-b2ae-277dcf2d9503",
+            "Datasource Name": "Open ID Connect",
+            "Email": "kishe_matthew_g@lilly.com",
+            "First Name": "Matthew",
+            "ID": "659599A6-F04C-491E-990D-850219104EB1",
+            "Is Admin": false,
+            "Last Name": "Kishe",
+            "Name": "Matthew Kishe",
+            "Type": "User",
+            "Username": "ZBnlTHEqOu-Eh97mxhxm53sGEOR5QpNvLJ6Q9RSggko"
+        },
+        "Type": "Folder",
+        "Unsearchable": false,
+        "Updated At": "1703780133952164832"
+    },
+    "0EEA59C5-41F9-6060-ACC0-ABF763CC944D": {
+        "Access Control": [
+            {
+                "ID": "0eea59c5-41fd-ee80-87f5-ab5ea5ecbde2",
+                "Identity": {
+                    "Datasource Class": "OAuth 2.0",
+                    "Datasource ID": "18e7dcb0-47d9-422f-b2ae-277dcf2d9503",
+                    "Datasource Name": "Open ID Connect",
+                    "Email": "kishe_matthew_g@lilly.com",
+                    "First Name": "Matthew",
+                    "ID": "659599A6-F04C-491E-990D-850219104EB1",
+                    "Is Admin": false,
+                    "Last Name": "Kishe",
+                    "Name": "Matthew Kishe",
+                    "Type": "User",
+                    "Username": "ZBnlTHEqOu-Eh97mxhxm53sGEOR5QpNvLJ6Q9RSggko"
+                },
+                "Origin": "0EEA59C5-419C-6400-AC6D-0A210FCFA500",
+                "Permissions": {
+                    "Manage": true,
+                    "Read": true,
+                    "Write": true
+                },
+                "Redacted": false,
+                "Role": null
+            },
+            {
+                "ID": "0eea59c5-41f9-6060-b767-ef4cc29535dd",
+                "Identity": {
+                    "Datasource Class": "OAuth 2.0",
+                    "Datasource ID": "18e7dcb0-47d9-422f-b2ae-277dcf2d9503",
+                    "Datasource Name": "Open ID Connect",
+                    "Email": "kishe_matthew_g@lilly.com",
+                    "First Name": "Matthew",
+                    "ID": "659599A6-F04C-491E-990D-850219104EB1",
+                    "Is Admin": false,
+                    "Last Name": "Kishe",
+                    "Name": "Matthew Kishe",
+                    "Type": "User",
+                    "Username": "ZBnlTHEqOu-Eh97mxhxm53sGEOR5QpNvLJ6Q9RSggko"
+                },
+                "Origin": null,
+                "Permissions": {
+                    "Manage": true,
+                    "Read": true,
+                    "Write": true
+                },
+                "Redacted": false,
+                "Role": "OWNER"
+            }
+        ],
+        "Ancestors": [
+            "0EEA59C5-419C-6400-AC6D-0A210FCFA500"
+        ],
+        "Archived": false,
+        "Cache Enabled": false,
+        "Created At": "1703780133990422116",
+        "Description": "Created by Seeq Data Lab",
+        "Enabled": true,
+        "ID": "0EEA59C5-41F9-6060-ACC0-ABF763CC944D",
+        "Name": "My Example",
+        "Owner": {
+            "Datasource Class": "OAuth 2.0",
+            "Datasource ID": "18e7dcb0-47d9-422f-b2ae-277dcf2d9503",
+            "Datasource Name": "Open ID Connect",
+            "Email": "kishe_matthew_g@lilly.com",
+            "First Name": "Matthew",
+            "ID": "659599A6-F04C-491E-990D-850219104EB1",
+            "Is Admin": false,
+            "Last Name": "Kishe",
+            "Name": "Matthew Kishe",
+            "Type": "User",
+            "Username": "ZBnlTHEqOu-Eh97mxhxm53sGEOR5QpNvLJ6Q9RSggko"
+        },
+        "Type": "Folder",
+        "Unsearchable": false,
+        "Updated At": "1703780136114832443"
+    },
+    "0EEA59CA-CC0C-75E0-B949-92EC17A3EC77": {
+        "Archived": false,
+        "Cache Enabled": true,
+        "Cache ID": "0eea59ca-cc0c-75e0-b999-245bd6044e09",
+        "Data ID": "[Released] C1C00D7E-5FFC-43CC-9901-8CB99E7E996E",
+        "Datasource Class": "Seeq Data Lab",
+        "Datasource ID": "Seeq Data Lab",
+        "Enabled": true,
+        "Formula": "days()",
+        "Formula Parameters": {},
+        "ID": "0EEA59CA-CC0C-75E0-B949-92EC17A3EC77",
+        "Key Unit Of Measure": "ns",
+        "Maximum Duration": "1.0416666666666667",
+        "Maximum Interpolation": "90000.0",
+        "Metadata Properties": "Day+of+Month=&Day+of+Year=&Day+of+Week=",
+        "Name": "Daily",
+        "Scoped To": "0EEA59CA-C9F5-FB30-9798-28A6E00C225A",
+        "Type": "CalculatedCondition",
+        "UIConfig": {
+            "advancedParametersCollapsed": true,
+            "duration": "days",
+            "frequencies": [],
+            "maximumDuration": {
+                "units": "day",
+                "value": 1
+            },
+            "offset": {},
+            "quarterStart": {
+                "day": 1,
+                "month": "Month.January"
+            },
+            "shift": {
+                "duration": 8,
+                "offset": 8
+            },
+            "type": "periodic-condition",
+            "weekStart": "Day.Sunday"
+        },
+        "Unsearchable": false
+    },
+    "0EEA59CA-CC55-F9C0-9E86-F3D663E265E1": {
+        "Archived": false,
+        "Cache Enabled": true,
+        "Cache ID": "0eea59ca-cc55-f9c0-bb54-279f876d0d09",
+        "Data ID": "[Released] CCD70C84-F21E-4983-822F-5480BC50191D",
+        "Datasource Class": "Seeq Data Lab",
+        "Datasource ID": "Seeq Data Lab",
+        "Enabled": true,
+        "Formula": "$a.lowPassFilter(120min, 15s).derivative() * 3600 s/h",
+        "Formula Parameters": {
+            "a": "7447E61C-0334-48C9-B89A-BA2986E70F3F"
+        },
+        "ID": "0EEA59CA-CC55-F9C0-9E86-F3D663E265E1",
+        "Interpolation Method": "Linear",
+        "Key Unit Of Measure": "ns",
+        "Maximum Interpolation": "15.0",
+        "Name": "Rate of Change of Wet Bulb",
+        "Type": "CalculatedSignal",
+        "UIConfig": {
+            "advancedParametersCollapsed": true,
+            "maximumDuration": {
+                "units": "day",
+                "value": 1
+            },
+            "type": "power-search"
+        },
+        "Unsearchable": false,
+        "Value Unit Of Measure": "\u00b0F/h"
+    },
+    "0EEA59CA-CC90-7340-9509-462D45418BA5": {
+        "Archived": false,
+        "Cache Enabled": false,
+        "Data ID": "[Released] CE98C80E-838D-46E6-8250-2F5D887E86C6",
+        "Datasource Class": "Seeq Data Lab",
+        "Datasource ID": "Seeq Data Lab",
+        "Enabled": true,
+        "Formula": "<ThresholdMetric>",
+        "Formula Parameters": {
+            "Aggregation Function": "average()",
+            "Bounding Condition": "0EEA59CA-CC0C-75E0-B949-92EC17A3EC77",
+            "Measured Item": "11FBE5CB-C255-483F-B886-C42ADCD82A32",
+            "Process Type": "Condition",
+            "Thresholds": [
+                {
+                    "Priority": {
+                        "Color": "#ff0000",
+                        "Level": 3,
+                        "Name": "HiHiHi"
+                    },
+                    "Value": {
+                        "Unit Of Measure": "",
+                        "Value": 130
+                    }
+                },
+                {
+                    "Priority": {
+                        "Color": "#ff0000",
+                        "Level": -3,
+                        "Name": "LoLoLo"
+                    },
+                    "Value": {
+                        "Unit Of Measure": "",
+                        "Value": 30
+                    }
+                }
+            ]
+        },
+        "ID": "0EEA59CA-CC90-7340-9509-462D45418BA5",
+        "MetricReconfigurationMigration": true,
+        "Name": "Average Daily Temperature",
+        "Scoped To": "0EEA59CA-C9F5-FB30-9798-28A6E00C225A",
+        "Type": "ThresholdMetric",
+        "UIConfig": {
+            "advancedParametersCollapsed": true,
+            "type": "threshold-metric"
+        },
+        "Unsearchable": false
+    },
+    "0EEA59CA-CD5A-FD70-BAB8-0B47E6CFFAF9": {
+        "Archived": false,
+        "Cache Enabled": true,
+        "Cache ID": "0eea59ca-cd5a-fd70-bca2-2d6ea7e3800f",
+        "Data ID": "[Released] D5586EDF-FF35-4C8B-85AC-50764C8A806F",
+        "Datasource Class": "Seeq Data Lab",
+        "Datasource ID": "Seeq Data Lab",
+        "Enabled": true,
+        "Formula": [
+            "$trainingRange = $inputCondition.toGroup(capsule(\"2019-01-01T23:23:27.130Z\", \"2019-02-01T23:23:27.130Z\"), CapsuleBoundary.EnclosedBy)",
+            "referenceTable(5min)",
+            "  .addRows($inputSignal, $trainingRange)",
+            "  .repeatOver($repeatOverCondition.fragment(), ReferenceTableStat.AveDev, -3)"
+        ],
+        "Formula Parameters": {
+            "inputCondition": "0EEA59CA-CC0C-75E0-B949-92EC17A3EC77",
+            "inputSignal": "C52944DF-4FD5-4AEC-9447-B0C988AF23A7",
+            "repeatOverCondition": "0EEA59CA-CC0C-75E0-B949-92EC17A3EC77"
+        },
+        "ID": "0EEA59CA-CD5A-FD70-BAB8-0B47E6CFFAF9",
+        "Interpolation Method": "Linear",
+        "Key Unit Of Measure": "ns",
+        "Maximum Interpolation": "5",
+        "Name": "Temperature Warning Lower",
+        "Scoped To": "0EEA59CA-C9F5-FB30-9798-28A6E00C225A",
+        "Type": "CalculatedSignal",
+        "UIConfig": {
+            "advancedParametersCollapsed": false,
+            "griddingPeriod": {
+                "units": "min",
+                "value": 5
+            },
+            "multiplier": -3,
+            "referenceStat": "AveDev",
+            "type": "reference",
+            "windowEnd": 1549063407130,
+            "windowStart": 1546385007130
+        },
+        "Unsearchable": false,
+        "Value Unit Of Measure": "\u00b0F"
+    },
+    "0EEA59CA-CE5D-EA10-AD8C-930016705EB8": {
+        "Archived": false,
+        "Cache Enabled": false,
+        "Data ID": "[Released] DFC5A100-8C92-4809-8044-102AAAB62EEA",
+        "Datasource Class": "Seeq Data Lab",
+        "Datasource ID": "Seeq Data Lab",
+        "Duration": "12",
+        "Enabled": true,
+        "Formula": "<ThresholdMetric>",
+        "Formula Parameters": {
+            "Aggregation Function": "maxValue()",
+            "Duration": {
+                "Unit Of Measure": "h",
+                "Value": 12
+            },
+            "Measured Item": "11FBE5CB-C255-483F-B886-C42ADCD82A32",
+            "Period": {
+                "Unit Of Measure": "min",
+                "Value": 30
+            },
+            "Process Type": "Continuous"
+        },
+        "ID": "0EEA59CA-CE5D-EA10-AD8C-930016705EB8",
+        "MetricReconfigurationMigration": true,
+        "Name": "Rolling Temperature 12-hour Maximum",
+        "Period": "30",
+        "Scoped To": "0EEA59CA-C9F5-FB30-9798-28A6E00C225A",
+        "Type": "ThresholdMetric",
+        "UIConfig": {
+            "advancedParametersCollapsed": true,
+            "type": "threshold-metric"
+        },
+        "Unsearchable": false
+    },
+    "0EEA59CA-CEC1-FBA0-B51E-0F4E9D04C417": {
+        "Archived": false,
+        "Cache Enabled": true,
+        "Cache ID": "0eea59ca-cec1-fba0-ac83-d63034cf6cca",
+        "Data ID": "[Released] FBBCD4E0-CE26-4A33-BE59-3E215553FB1F",
+        "Datasource Class": "Seeq Data Lab",
+        "Datasource ID": "Seeq Data Lab",
+        "Enabled": true,
+        "Formula": "$series.lowPassFilter(100min, 2min, 333)",
+        "Formula Parameters": {
+            "series": "11FBE5CB-C255-483F-B886-C42ADCD82A32"
+        },
+        "ID": "0EEA59CA-CEC1-FBA0-B51E-0F4E9D04C417",
+        "Interpolation Method": "Linear",
+        "Key Unit Of Measure": "ns",
+        "Maximum Interpolation": "120.0",
+        "Name": "Smooth Temperature",
+        "Scoped To": "0EEA59CA-C9F5-FB30-9798-28A6E00C225A",
+        "Type": "CalculatedSignal",
+        "UIConfig": {
+            "advancedParametersCollapsed": true,
+            "autoPeriod": true,
+            "autoTaps": true,
+            "cutoff": {
+                "units": "min",
+                "value": 100
+            },
+            "maximumDuration": {
+                "units": "day",
+                "value": 1
+            },
+            "period": {
+                "units": "min",
+                "value": 2
+            },
+            "samplePeriod": {
+                "units": "min",
+                "value": 2
+            },
+            "taps": 333,
+            "type": "low-pass-filter"
+        },
+        "Unsearchable": false,
+        "Value Unit Of Measure": "\u00b0F"
+    },
+    "0EEA59CA-CF03-EA50-B8DB-B4E27A056E44": {
+        "Archived": false,
+        "Cache Enabled": true,
+        "Cache ID": "0eea59ca-cf03-ea50-ba00-e9ba5b707233",
+        "Data ID": "[Released] 15359EB5-57E9-4A60-A5DA-454885854076",
+        "Datasource Class": "Seeq Data Lab",
+        "Datasource ID": "Seeq Data Lab",
+        "Enabled": true,
+        "Formula": [
+            "$trainingRange = $inputCondition.toGroup(capsule(\"2018-01-01T21:08:41.352Z\", \"2018-02-01T21:08:41.352Z\"))",
+            "referenceTable(5min)",
+            "  .addRows($inputSignal, $trainingRange)",
+            "  .repeatOver($repeatOverCondition.fragment(), ReferenceTableStat.AveDev, 3)"
+        ],
+        "Formula Parameters": {
+            "inputCondition": "0EEA59CA-CC0C-75E0-B949-92EC17A3EC77",
+            "inputSignal": "11FBE5CB-C255-483F-B886-C42ADCD82A32",
+            "repeatOverCondition": "0EEA59CA-CC0C-75E0-B949-92EC17A3EC77"
+        },
+        "ID": "0EEA59CA-CF03-EA50-B8DB-B4E27A056E44",
+        "Interpolation Method": "Linear",
+        "Key Unit Of Measure": "ns",
+        "Maximum Interpolation": "5",
+        "Name": "Temp HiHi",
+        "Scoped To": "0EEA59CA-C9F5-FB30-9798-28A6E00C225A",
+        "Type": "CalculatedSignal",
+        "UIConfig": {
+            "advancedParametersCollapsed": true,
+            "griddingPeriod": {
+                "units": "min",
+                "value": 5
+            },
+            "maximumDuration": {
+                "units": "day",
+                "value": 1
+            },
+            "multiplier": 3,
+            "referenceStat": "AveDev",
+            "type": "reference",
+            "windowEnd": 1517519321352,
+            "windowStart": 1514840921352
+        },
+        "Unsearchable": false,
+        "Value Unit Of Measure": "\u00b0F"
+    },
+    "0EEA59CA-CF4A-7720-B6C8-B03FDC940FBB": {
+        "Archived": false,
+        "Cache Enabled": true,
+        "Cache ID": "0eea59ca-cf4c-ee30-9ffb-8a183a323405",
+        "Data ID": "[Released] 2913AEA3-0D61-4271-AF3D-C44CA975B4D7",
+        "Datasource Class": "Seeq Data Lab",
+        "Datasource ID": "Seeq Data Lab",
+        "Enabled": true,
+        "Formula": "$b.max(capsule('2018-01-01T00:00:00Z', '2018-02-01T00:00:00Z')).value()",
+        "Formula Parameters": {
+            "b": "11FBE5CB-C255-483F-B886-C42ADCD82A32"
+        },
+        "ID": "0EEA59CA-CF4A-7720-B6C8-B03FDC940FBB",
+        "Name": "Temperature Limit",
+        "Scoped To": "0EEA59CA-C9F5-FB30-9798-28A6E00C225A",
+        "Type": "CalculatedScalar",
+        "UIConfig": {
+            "advancedParametersCollapsed": true,
+            "maximumDuration": {
+                "units": "day",
+                "value": 1
+            },
+            "type": "power-search"
+        },
+        "Unit Of Measure": "\u00b0F",
+        "Unsearchable": false
+    },
+    "0EEA59CA-CF89-EEC0-B4FC-7F57BEB51787": {
+        "Archived": false,
+        "Cache Enabled": true,
+        "Cache ID": "0eea59ca-cf89-eec0-8c18-62767437bbf9",
+        "Data ID": "[Released] 2E09EBCB-1A2B-4BB9-85C6-24AB7B6E01AF",
+        "Datasource Class": "Seeq Data Lab",
+        "Datasource ID": "Seeq Data Lab",
+        "Enabled": true,
+        "Formula": [
+            "$trainingRange = $inputCondition.toGroup(capsule(\"2018-01-01T21:08:41.352Z\", \"2018-02-01T21:08:41.352Z\"))",
+            "referenceTable(5min)",
+            "  .addRows($inputSignal, $trainingRange)",
+            "  .repeatOver($repeatOverCondition.fragment(), ReferenceTableStat.AveDev, -3)"
+        ],
+        "Formula Parameters": {
+            "inputCondition": "0EEA59CA-CC0C-75E0-B949-92EC17A3EC77",
+            "inputSignal": "11FBE5CB-C255-483F-B886-C42ADCD82A32",
+            "repeatOverCondition": "0EEA59CA-CC0C-75E0-B949-92EC17A3EC77"
+        },
+        "ID": "0EEA59CA-CF89-EEC0-B4FC-7F57BEB51787",
+        "Interpolation Method": "Linear",
+        "Key Unit Of Measure": "ns",
+        "Maximum Interpolation": "5",
+        "Name": "Temp LoLo",
+        "Scoped To": "0EEA59CA-C9F5-FB30-9798-28A6E00C225A",
+        "Type": "CalculatedSignal",
+        "UIConfig": {
+            "advancedParametersCollapsed": true,
+            "griddingPeriod": {
+                "units": "min",
+                "value": 5
+            },
+            "maximumDuration": {
+                "units": "day",
+                "value": 1
+            },
+            "multiplier": -3,
+            "referenceStat": "AveDev",
+            "type": "reference",
+            "windowEnd": 1517519321352,
+            "windowStart": 1514840921352
+        },
+        "Unsearchable": false,
+        "Value Unit Of Measure": "\u00b0F"
+    },
+    "0EEA59CA-CFD0-FB90-BB9B-0BF805CEA853": {
+        "Archived": false,
+        "Cache Enabled": true,
+        "Cache ID": "0eea59ca-cfd0-fb90-9045-4dd214d3f1a8",
+        "Data ID": "[Released] 32302B01-EE96-4A96-B00B-59DBEA2678EE",
+        "Datasource Class": "Seeq Data Lab",
+        "Datasource ID": "Seeq Data Lab",
+        "Enabled": true,
+        "Formula": [
+            "$trainingRange = $inputCondition.toGroup(capsule(\"2019-01-01T23:23:27.130Z\", \"2019-02-01T23:23:27.130Z\"), CapsuleBoundary.EnclosedBy)",
+            "referenceTable(5min)",
+            "  .addRows($inputSignal, $trainingRange)",
+            "  .repeatOver($repeatOverCondition.fragment(), ReferenceTableStat.AveDev, 3)"
+        ],
+        "Formula Parameters": {
+            "inputCondition": "0EEA59CA-CC0C-75E0-B949-92EC17A3EC77",
+            "inputSignal": "C52944DF-4FD5-4AEC-9447-B0C988AF23A7",
+            "repeatOverCondition": "0EEA59CA-CC0C-75E0-B949-92EC17A3EC77"
+        },
+        "ID": "0EEA59CA-CFD0-FB90-BB9B-0BF805CEA853",
+        "Interpolation Method": "Linear",
+        "Key Unit Of Measure": "ns",
+        "Maximum Interpolation": "5",
+        "Name": "Temperature Warning Upper",
+        "Scoped To": "0EEA59CA-C9F5-FB30-9798-28A6E00C225A",
+        "Type": "CalculatedSignal",
+        "UIConfig": {
+            "advancedParametersCollapsed": false,
+            "griddingPeriod": {
+                "units": "min",
+                "value": 5
+            },
+            "multiplier": 3,
+            "referenceStat": "AveDev",
+            "type": "reference",
+            "windowEnd": 1549063407130,
+            "windowStart": 1546385007130
+        },
+        "Unsearchable": false,
+        "Value Unit Of Measure": "\u00b0F"
+    },
+    "0EEA59CA-D010-7330-B20B-5AC4B54FC29D": {
+        "Archived": false,
+        "Cache Enabled": false,
+        "Data ID": "[Released] 355DE70E-5478-45D9-B14C-94BF76B81F0C",
+        "Datasource Class": "Seeq Data Lab",
+        "Datasource ID": "Seeq Data Lab",
+        "Enabled": true,
+        "Formula": "<ThresholdMetric>",
+        "Formula Parameters": {
+            "Measured Item": "11FBE5CB-C255-483F-B886-C42ADCD82A32",
+            "Process Type": "Simple"
+        },
+        "ID": "0EEA59CA-D010-7330-B20B-5AC4B54FC29D",
+        "MetricReconfigurationMigration": true,
+        "Name": "Temperature With Bounds",
+        "Scoped To": "0EEA59CA-C9F5-FB30-9798-28A6E00C225A",
+        "Type": "ThresholdMetric",
+        "UIConfig": {
+            "advancedParametersCollapsed": true,
+            "type": "threshold-metric"
+        },
+        "Unsearchable": false
+    },
+    "0EEA59CA-D07B-F9F0-961C-2B6842118CBF": {
+        "Archived": false,
+        "Cache Enabled": true,
+        "Cache ID": "0eea59ca-d07b-f9f0-a41b-affb805f1c2d",
+        "Data ID": "[Released] 553DFA1F-BF27-4679-83FB-B6415B1FECB3",
+        "Datasource Class": "Seeq Data Lab",
+        "Datasource ID": "Seeq Data Lab",
+        "Enabled": true,
+        "Formula": "$a.validValues().valueSearch(1day, isGreaterThan(90), 5min, isLessThanOrEqualTo(90), 5min)",
+        "Formula Parameters": {
+            "a": "11FBE5CB-C255-483F-B886-C42ADCD82A32"
+        },
+        "ID": "0EEA59CA-D07B-F9F0-961C-2B6842118CBF",
+        "Key Unit Of Measure": "ns",
+        "Maximum Duration": "1",
+        "Metadata Properties": "",
+        "Name": "High Temperature",
+        "Scoped To": "0EEA59CA-C9F5-FB30-9798-28A6E00C225A",
+        "Type": "CalculatedCondition",
+        "UIConfig": {
+            "advancedParametersCollapsed": true,
+            "limitsParams": {
+                "entryCondition": {
+                    "duration": {
+                        "units": "min",
+                        "value": 5
+                    },
+                    "operator": ">",
+                    "value": "90",
+                    "value2": null
+                },
+                "exitCondition": {
+                    "duration": {
+                        "units": "min",
+                        "value": 5
+                    },
+                    "operator": "<=",
+                    "value": "90",
+                    "value2": null
+                }
+            },
+            "maximumDuration": {
+                "units": "day",
+                "value": 1
+            },
+            "type": "limits"
+        },
+        "Unsearchable": false
+    },
+    "0EEA59CA-D0B3-EC60-B257-5B86DD9932AB": {
+        "Archived": false,
+        "Cache Enabled": true,
+        "Cache ID": "0eea59ca-d0b3-ec60-a070-2fc026bea972",
+        "Data ID": "[Released] 5C09B1E4-8E3C-44FC-AFFA-0060D3557D0C",
+        "Datasource Class": "Seeq Data Lab",
+        "Datasource ID": "Seeq Data Lab",
+        "Enabled": true,
+        "Formula": "$b.move(12h)",
+        "Formula Parameters": {
+            "b": "11FBE5CB-C255-483F-B886-C42ADCD82A32"
+        },
+        "ID": "0EEA59CA-D0B3-EC60-B257-5B86DD9932AB",
+        "Interpolation Method": "Linear",
+        "Key Unit Of Measure": "ns",
+        "Maximum Interpolation": "2",
+        "Name": "Delayed Smooth Temperature",
+        "Scoped To": "0EEA59CA-C9F5-FB30-9798-28A6E00C225A",
+        "Type": "CalculatedSignal",
+        "UIConfig": {
+            "advancedParametersCollapsed": true,
+            "maximumDuration": {
+                "units": "day",
+                "value": 1
+            },
+            "type": "power-search"
+        },
+        "Unsearchable": false,
+        "Value Unit Of Measure": "\u00b0F"
+    },
+    "0EEA59CA-D0F5-FB10-A874-754BA5E99F85": {
+        "Archived": false,
+        "Cache Enabled": true,
+        "Cache ID": "0eea59ca-d0f5-fb10-8156-340baacc0ebf",
+        "Data ID": "[Released] 6ABEEA79-1D4A-4EE8-A237-6C1B8B40B065",
+        "Datasource Class": "Seeq Data Lab",
+        "Datasource ID": "Seeq Data Lab",
+        "Enabled": true,
+        "Formula": [
+            "$deviation1 = $input - $boundary1",
+            "$results1 = valueSearch($deviation1, 40h, isGreaterThan(0), 5min, true, isLessThan(0), 5min, true)",
+            "$deviation2 = $input - $boundary2",
+            "$results2 = valueSearch($deviation2, 40h, isLessThan(0), 5min, true, isGreaterThan(0), 5min, true)",
+            "combineWith($results1, $results2)"
+        ],
+        "Formula Parameters": {
+            "boundary1": "0EEA59CA-CFD0-FB90-BB9B-0BF805CEA853",
+            "boundary2": "0EEA59CA-CD5A-FD70-BAB8-0B47E6CFFAF9",
+            "input": "C52944DF-4FD5-4AEC-9447-B0C988AF23A7"
+        },
+        "ID": "0EEA59CA-D0F5-FB10-A874-754BA5E99F85",
+        "Key Unit Of Measure": "ns",
+        "Maximum Duration": "40",
+        "Metadata Properties": "",
+        "Name": "Temperature Deviation",
+        "Scoped To": "0EEA59CA-C9F5-FB30-9798-28A6E00C225A",
+        "Type": "CalculatedCondition",
+        "UIConfig": {
+            "advancedParametersCollapsed": false,
+            "condition": "OUTSIDE",
+            "endDuration": {
+                "units": "min",
+                "value": 5
+            },
+            "endLocation": true,
+            "startDuration": {
+                "units": "min",
+                "value": 5
+            },
+            "startLocation": true,
+            "type": "deviation"
+        },
+        "Unsearchable": false
+    },
+    "0EEA59CA-D135-62B0-A077-9A6D1C939E19": {
+        "Archived": false,
+        "Cache Enabled": true,
+        "Cache ID": "0eea59ca-d135-62b0-93ea-f25e5a5ca1f4",
+        "Data ID": "[Released] 88BF5D71-421F-45BE-92C1-C907DF978191",
+        "Datasource Class": "Seeq Data Lab",
+        "Datasource ID": "Seeq Data Lab",
+        "Enabled": true,
+        "Formula": "$b.toCapsules()",
+        "Formula Parameters": {
+            "b": "283A0DF9-41B1-4286-B920-C89AFDC9D5C9"
+        },
+        "ID": "0EEA59CA-D135-62B0-A077-9A6D1C939E19",
+        "Key Unit Of Measure": "ns",
+        "Maximum Duration": "2",
+        "Metadata Properties": "Value=string",
+        "Name": "Optimizer Condition",
+        "Scoped To": "0EEA59CA-C9F5-FB30-9798-28A6E00C225A",
+        "Type": "CalculatedCondition",
+        "UIConfig": {
+            "advancedParametersCollapsed": true,
+            "maximumDuration": {
+                "units": "day",
+                "value": 1
+            },
+            "type": "power-search"
+        },
+        "Unsearchable": false
+    },
+    "0EEA59CA-D16D-7520-A721-15879D144093": {
+        "Archived": false,
+        "Cache Enabled": true,
+        "Cache ID": "0eea59ca-d16d-7520-b854-eca57e40903d",
+        "Data ID": "[Released] 8C048548-8E83-4380-8B24-9DAD56B5C2CF",
+        "Datasource Class": "Seeq Data Lab",
+        "Datasource ID": "Seeq Data Lab",
+        "Enabled": true,
+        "Formula": "$a.validValues().valueSearch(1day, isGreaterThan(30), 5min, isLessThanOrEqualTo(30), 5min)",
+        "Formula Parameters": {
+            "a": "3ED34D08-26AD-4418-BB8D-827B36453DBA"
+        },
+        "ID": "0EEA59CA-D16D-7520-A721-15879D144093",
+        "Key Unit Of Measure": "ns",
+        "Maximum Duration": "1",
+        "Metadata Properties": "",
+        "Name": "High Power",
+        "Scoped To": "0EEA59CA-C9F5-FB30-9798-28A6E00C225A",
+        "Type": "CalculatedCondition",
+        "UIConfig": {
+            "advancedParametersCollapsed": true,
+            "limitsParams": {
+                "entryCondition": {
+                    "duration": {
+                        "units": "min",
+                        "value": 5
+                    },
+                    "operator": ">",
+                    "value": "30",
+                    "value2": null
+                },
+                "exitCondition": {
+                    "duration": {
+                        "units": "min",
+                        "value": 5
+                    },
+                    "operator": "<=",
+                    "value": "30",
+                    "value2": null
+                }
+            },
+            "maximumDuration": {
+                "units": "day",
+                "value": 1
+            },
+            "type": "limits"
+        },
+        "Unsearchable": false
+    },
+    "0EEA59CA-D1A7-EEA0-A24F-5349E886FFB6": {
+        "Archived": false,
+        "Cache Enabled": false,
+        "Data ID": "[Released] C93E74CA-0FB5-4CBF-9634-4031CD11B3B5",
+        "Datasource Class": "Seeq Data Lab",
+        "Datasource ID": "Seeq Data Lab",
+        "Enabled": true,
+        "Formula": "<ThresholdMetric>",
+        "Formula Parameters": {
+            "Measured Item": "C52944DF-4FD5-4AEC-9447-B0C988AF23A7",
+            "Process Type": "Simple"
+        },
+        "ID": "0EEA59CA-D1A7-EEA0-A24F-5349E886FFB6",
+        "MetricReconfigurationMigration": true,
+        "Name": "Warning Boundary",
+        "Scoped To": "0EEA59CA-C9F5-FB30-9798-28A6E00C225A",
+        "Type": "ThresholdMetric",
+        "Unsearchable": false
+    },
+    "0EEA59CA-D1FD-75D0-BE48-C2150A79B72E": {
+        "Archived": false,
+        "Cache Enabled": false,
+        "Data ID": "[Released] 38E66380-26C1-4374-B6F2-C8CC91B4932D",
+        "Datasource Class": "Seeq Data Lab",
+        "Datasource ID": "Seeq Data Lab",
+        "Enabled": true,
+        "ExpectedProvidedType": "Table",
+        "Formula": "conditionTable($yValueSignal1.toStates(capsule(10%, 85%).partition(5%)).toCondition(\"yValueCol1\").toGroup($viewCapsule, CapsuleBoundary.Intersect), \"yValueCol1\", $condition2.toGroup($viewCapsule), \"Value\").addStatColumn(\"signalToAggregate\", $signalToAggregate, average())",
+        "Formula Parameters": {
+            "condition2": "0EEA59CA-D135-62B0-A077-9A6D1C939E19",
+            "signalToAggregate": "11FBE5CB-C255-483F-B886-C42ADCD82A32",
+            "viewCapsule": "capsule(\"2018-11-05T04:59:48.188Z\", \"2018-11-12T04:59:48.188Z\")",
+            "yValueSignal1": "F9FCB136-F040-4D61-8895-12A38284E992"
+        },
+        "ID": "0EEA59CA-D1FD-75D0-BE48-C2150A79B72E",
+        "Name": "Temp vs Avg Humidity",
+        "Scoped To": "0EEA59CA-C9F5-FB30-9798-28A6E00C225A",
+        "Type": "Chart",
+        "UIConfig": {
+            "advancedParametersCollapsed": true,
+            "aggregationConfigs": [
+                {
+                    "binSize": "5",
+                    "id": 1,
+                    "mode": "by_y_value",
+                    "valid": true,
+                    "yValueBinMax": "85",
+                    "yValueBinMin": "10",
+                    "yValueBinMode": "size"
+                },
+                {
+                    "conditionProperty": "Value",
+                    "id": 2,
+                    "mode": "by_condition",
+                    "valid": true,
+                    "yValueBinMode": "size"
+                }
+            ],
+            "includeEmptyBuckets": false,
+            "maximumDuration": {
+                "units": "day",
+                "value": 1
+            },
+            "mode": "by_y_value",
+            "stat": {
+                "key": "average",
+                "timeUnits": "s"
+            },
+            "type": "aggregation-bins-table",
+            "yValueSignal": ""
+        },
+        "Unsearchable": false
+    },
+    "11FBE5CB-C255-483F-B886-C42ADCD82A32": {
+        "Archived": false,
+        "Cache Enabled": false,
+        "Cache ID": "9373d4b2-2381-4629-8581-824f494eb8a4",
+        "Data ID": "[Tag] Area A_Temperature.sim.ts.csv",
+        "Datasource Class": "Time Series CSV Files",
+        "Datasource ID": "Example Data",
+        "Enabled": true,
+        "ID": "11FBE5CB-C255-483F-B886-C42ADCD82A32",
+        "Interpolation Method": "Linear",
+        "Key Unit Of Measure": "ns",
+        "Maximum Interpolation": "2min",
+        "Name": "Area A_Temperature",
+        "Source Maximum Interpolation": "2min",
+        "Source Value Unit Of Measure": "\u00b0F",
+        "Sync Token": "2023-07-28T15:19:46.192363878Z",
+        "Type": "StoredSignal",
+        "Unsearchable": false,
+        "Value Unit Of Measure": "\u00b0F"
+    },
+    "1CE21D25-1071-4ECE-A068-8A5F06A7C130": {
+        "Archived": false,
+        "Cache Enabled": false,
+        "Cache ID": "543f5f87-2eb2-4b35-ac41-3a98e30a3ed8",
+        "Data ID": "[Tag] Area C_Temperature.sim.ts.csv",
+        "Datasource Class": "Time Series CSV Files",
+        "Datasource ID": "Example Data",
+        "Enabled": true,
+        "ID": "1CE21D25-1071-4ECE-A068-8A5F06A7C130",
+        "Interpolation Method": "Linear",
+        "Key Unit Of Measure": "ns",
+        "Maximum Interpolation": "2min",
+        "Name": "Area C_Temperature",
+        "Source Maximum Interpolation": "2min",
+        "Source Value Unit Of Measure": "F",
+        "Sync Token": "2023-07-28T15:19:46.192363878Z",
+        "Type": "StoredSignal",
+        "Unsearchable": false,
+        "Value Unit Of Measure": "\u00b0F"
+    },
+    "283A0DF9-41B1-4286-B920-C89AFDC9D5C9": {
+        "Archived": false,
+        "Cache Enabled": false,
+        "Cache ID": "02783c8d-d4d9-4066-bbc8-906a1ac29fcf",
+        "Data ID": "[Tag] Area A_Compressor Stage.sim.ts.csv",
+        "Datasource Class": "Time Series CSV Files",
+        "Datasource ID": "Example Data",
+        "Enabled": true,
+        "ID": "283A0DF9-41B1-4286-B920-C89AFDC9D5C9",
+        "Interpolation Method": "Step",
+        "Key Unit Of Measure": "ns",
+        "Maximum Interpolation": "2min",
+        "Name": "Area A_Compressor Stage",
+        "Source Maximum Interpolation": "2min",
+        "Source Value Unit Of Measure": "string",
+        "Sync Token": "2023-07-28T15:19:46.192363878Z",
+        "Type": "StoredSignal",
+        "Unsearchable": false,
+        "Value Unit Of Measure": "string"
+    },
+    "34DBC8EF-0EDD-423C-BDA9-47418558E154": {
+        "Archived": false,
+        "Asset": "Area A",
+        "Cache Enabled": false,
+        "Data ID": "root/Cooling Tower 1/Area A",
+        "Datasource Class": "Time Series CSV Files",
+        "Datasource ID": "Example Data",
+        "Enabled": true,
+        "ID": "34DBC8EF-0EDD-423C-BDA9-47418558E154",
+        "Name": "Area A",
+        "Old Asset Format": false,
+        "Path": "Example >> Cooling Tower 1",
+        "Sync Token": "2023-07-28T15:19:46.192363878Z",
+        "Type": "Asset",
+        "Unsearchable": false
+    },
+    "3ED34D08-26AD-4418-BB8D-827B36453DBA": {
+        "Archived": false,
+        "Cache Enabled": false,
+        "Cache ID": "cff5a07a-f91f-4579-b645-36165a2b817c",
+        "Data ID": "[Tag] Area A_Compressor Power.sim.ts.csv",
+        "Datasource Class": "Time Series CSV Files",
+        "Datasource ID": "Example Data",
+        "Enabled": true,
+        "ID": "3ED34D08-26AD-4418-BB8D-827B36453DBA",
+        "Interpolation Method": "Linear",
+        "Key Unit Of Measure": "ns",
+        "Maximum Interpolation": "2min",
+        "Name": "Area A_Compressor Power",
+        "Source Maximum Interpolation": "2min",
+        "Source Value Unit Of Measure": "kW",
+        "Sync Token": "2023-07-28T15:19:46.192363878Z",
+        "Type": "StoredSignal",
+        "Unsearchable": false,
+        "Value Unit Of Measure": "kW"
+    },
+    "451C9DCC-6FA1-474F-9748-57882820AAFC": {
+        "Access Control": [
+            {
+                "ID": "111c8278-765f-47db-a35a-e8be559d39c9",
+                "Identity": {
+                    "Datasource Class": "OAuth 2.0",
+                    "Datasource ID": "18e7dcb0-47d9-422f-b2ae-277dcf2d9503",
+                    "Datasource Name": "Open ID Connect",
+                    "Email": "kishe_matthew_g@lilly.com",
+                    "First Name": "Matthew",
+                    "ID": "659599A6-F04C-491E-990D-850219104EB1",
+                    "Is Admin": false,
+                    "Last Name": "Kishe",
+                    "Name": "Matthew Kishe",
+                    "Type": "User",
+                    "Username": "ZBnlTHEqOu-Eh97mxhxm53sGEOR5QpNvLJ6Q9RSggko"
+                },
+                "Origin": null,
+                "Permissions": {
+                    "Manage": true,
+                    "Read": true,
+                    "Write": true
+                },
+                "Redacted": false,
+                "Role": "OWNER"
+            }
+        ],
+        "Ancestors": [],
+        "Archived": false,
+        "Cache Enabled": false,
+        "Created At": "1622123248220001000",
+        "Enabled": true,
+        "ID": "451C9DCC-6FA1-474F-9748-57882820AAFC",
+        "Name": "Matthew Kishe",
+        "Owner": {
+            "Datasource Class": "OAuth 2.0",
+            "Datasource ID": "18e7dcb0-47d9-422f-b2ae-277dcf2d9503",
+            "Datasource Name": "Open ID Connect",
+            "Email": "kishe_matthew_g@lilly.com",
+            "First Name": "Matthew",
+            "ID": "659599A6-F04C-491E-990D-850219104EB1",
+            "Is Admin": false,
+            "Last Name": "Kishe",
+            "Name": "Matthew Kishe",
+            "Type": "User",
+            "Username": "ZBnlTHEqOu-Eh97mxhxm53sGEOR5QpNvLJ6Q9RSggko"
+        },
+        "Permission Inheritance Disabled": true,
+        "Type": "Folder",
+        "Unmodifiable": true,
+        "Unsearchable": true,
+        "Updated At": "1622123248220001000"
+    },
+    "7447E61C-0334-48C9-B89A-BA2986E70F3F": {
+        "Archived": false,
+        "Cache Enabled": false,
+        "Cache ID": "964def12-2363-4bcf-8e67-9bc93c6f6ee9",
+        "Data ID": "[Tag] Area A_Wet Bulb.sim.ts.csv",
+        "Datasource Class": "Time Series CSV Files",
+        "Datasource ID": "Example Data",
+        "Enabled": true,
+        "ID": "7447E61C-0334-48C9-B89A-BA2986E70F3F",
+        "Interpolation Method": "Linear",
+        "Key Unit Of Measure": "ns",
+        "Maximum Interpolation": "2min",
+        "Name": "Area A_Wet Bulb",
+        "Source Maximum Interpolation": "2min",
+        "Source Value Unit Of Measure": "\u00b0F",
+        "Sync Token": "2023-07-28T15:19:46.192363878Z",
+        "Type": "StoredSignal",
+        "Unsearchable": false,
+        "Value Unit Of Measure": "\u00b0F"
+    },
+    "BB5D2A62-3926-4867-B343-0D814B215AE9": {
+        "Archived": false,
+        "Cache Enabled": false,
+        "Cache ID": "c6db7efb-a433-4871-a775-a03c9a40e724",
+        "Data ID": "[Tag] Area A_Optimizer.sim.ts.csv",
+        "Datasource Class": "Time Series CSV Files",
+        "Datasource ID": "Example Data",
+        "Enabled": true,
+        "ID": "BB5D2A62-3926-4867-B343-0D814B215AE9",
+        "Interpolation Method": "Linear",
+        "Key Unit Of Measure": "ns",
+        "Maximum Interpolation": "2min",
+        "Name": "Area A_Optimizer",
+        "Source Maximum Interpolation": "2min",
+        "Source Value Unit Of Measure": "",
+        "Sync Token": "2023-07-28T15:19:46.192363878Z",
+        "Type": "StoredSignal",
+        "Unsearchable": false,
+        "Value Unit Of Measure": ""
+    },
+    "C52944DF-4FD5-4AEC-9447-B0C988AF23A7": {
+        "Archived": false,
+        "Asset": "Area A",
+        "Cache Enabled": false,
+        "Cache ID": "2901c8d3-75b4-4f50-bd35-e84ef15b7a91",
+        "Data ID": "Area A_Temperature.sim.ts.csv",
+        "Datasource Class": "Time Series CSV Files",
+        "Datasource ID": "Example Data",
+        "Enabled": true,
+        "ID": "C52944DF-4FD5-4AEC-9447-B0C988AF23A7",
+        "Interpolation Method": "Linear",
+        "Key Unit Of Measure": "ns",
+        "Maximum Interpolation": "2min",
+        "Name": "Temperature",
+        "Path": "Example >> Cooling Tower 1",
+        "Source Maximum Interpolation": "2min",
+        "Source Value Unit Of Measure": "\u00b0F",
+        "Sync Token": "2023-07-28T15:19:46.192363878Z",
+        "Type": "StoredSignal",
+        "Unsearchable": false,
+        "Value Unit Of Measure": "\u00b0F"
+    },
+    "F9FCB136-F040-4D61-8895-12A38284E992": {
+        "Archived": false,
+        "Cache Enabled": false,
+        "Cache ID": "fed5c824-189a-4840-9aa9-d05ca66ddb80",
+        "Data ID": "[Tag] Area A_Relative Humidity.sim.ts.csv",
+        "Datasource Class": "Time Series CSV Files",
+        "Datasource ID": "Example Data",
+        "Enabled": true,
+        "ID": "F9FCB136-F040-4D61-8895-12A38284E992",
+        "Interpolation Method": "Linear",
+        "Key Unit Of Measure": "ns",
+        "Maximum Interpolation": "2min",
+        "Name": "Area A_Relative Humidity",
+        "Source Maximum Interpolation": "2min",
+        "Source Value Unit Of Measure": "%",
+        "Sync Token": "2023-07-28T15:19:46.192363878Z",
+        "Type": "StoredSignal",
+        "Unsearchable": false,
+        "Value Unit Of Measure": "%"
+    }
+}
