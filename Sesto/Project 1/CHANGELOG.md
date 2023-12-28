@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Released]
 
+## [2.0.0] - 2023-12-28
+
+### Changed
+- Changed item properties "0EEA59CA-CC55-F9C0-9E86-F3D663E265E1" Rate of change of wet bulb formula from a lowPassFilter to HighPassFilter.
+
+## [Released]
+
 ## [1.0.0] - 2023-12-28
 
 ### Added

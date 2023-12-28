@@ -201,7 +201,7 @@
         "Datasource Class": "Seeq Data Lab",
         "Datasource ID": "Seeq Data Lab",
         "Enabled": true,
-        "Formula": "$a.lowPassFilter(120min, 15s).derivative() * 3600 s/h",
+        "Formula": "$a.HighPassFilter(120min, 15s).derivative() * 3600 s/h",
         "Formula Parameters": {
             "a": "7447E61C-0334-48C9-B89A-BA2986E70F3F"
         },
